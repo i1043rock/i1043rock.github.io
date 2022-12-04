@@ -93,7 +93,7 @@ a {
     font-weight: 600;
 }
 
-a:hover {
+a:hover, a:hover span {
     color: purple;
 }
 
