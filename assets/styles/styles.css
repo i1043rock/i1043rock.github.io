@@ -249,12 +249,20 @@ a:hover, a:hover span {
     font-size: .94rem;
     font-weight: 700;
     line-height: 1.55rem;
+    color: silver;
 }
 
 .post .main-item__description {
     line-height: 1.8rem;
     margin-top: -0.2rem;
     margin-bottom: 0.8rem;
+}
+
+.content__main-item.post {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
 }
 
 .footer {
